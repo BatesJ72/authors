@@ -1,69 +1,69 @@
-,author,min_estimated_sales,max_estimated_sales,original_language,genre_or_major_works,number_of_books,nationality,genere_original
-0,William Shakespeare,2 billion,4 billion,English,Plays and poetry,42,English,Plays and poetry
-1,Agatha Christie,2 billion,4 billion,English,"whodunits, detective, crime fiction, fiction",85,English,Whodunits including the Miss Marple and Hercule Poirot series
-2,Barbara Cartland,500 million,1 billion,English,Romance,723,English,Romance
-3,Danielle Steel,500 million,800 million,English,Romance,179,American,Romance
-4,Harold Robbins,750 million,750 million,English,Adventure,23,American,Adventure
-5,Enid Blyton,blank,600 million[,English,"Children's literature, Noddy, The Famous Five, The Secret Seven",800,English,"Children's literature, Noddy, The Famous Five, The Secret Seven"
-6,Sidney Sheldon,370 million[,600 million[,English,Suspense,21,American,Suspense
-7,J. K. Rowling,500 million[,500 million[,English,"fantasy, fiction",15,British,"Harry Potter, Fantastic Beasts and Where to Find Them, Cormoran Strike, fantasy, crime fiction"
-8,Gilbert Patten,125 million[,500 million[,English,Adolescent adventures,209,American,Adolescent adventures
-9,Dr. Seuss,100 million[,500 million[,English,Children's literature,44,American,Children's literature
-10,Jackie Collins,250 million[,400 million[,English,Romance,25,English,Romance
-11,Horatio Alger,200 million[,400 million[,English,"romance, adventure, fiction",135,American,Dime novels
-12,R. L. Stine,100 million[,400 million[,English,"Goosebumps series, Fear Street series, horror, comedy",430+,American,"Goosebumps series, Fear Street series, horror, comedy"
-13,Dean Koontz,325 million[,400 million[,English,"Horror, thriller, science fiction, fantasy",91,American,"Horror, thriller, science fiction, fantasy"
-14,Nora Roberts,145 million[,400 million[,English,Romance,200+,American,Romance
-15,Stephen King,300 million[,350 million[,English,"Horror, science fiction, fantasy, It, The Shining, The Stand, Pet Sematary, Salem's Lot, The Green Mile",77,American,"Horror, science fiction, fantasy, It, The Shining, The Stand, Pet Sematary, Salem's Lot, The Green Mile"
-16,Jeffrey Archer,250 million[,330 million[,English,"Saga, thriller, short stories, Kane and Abel, The Clifton Chronicles",33,English,"Saga, thriller, short stories, Kane and Abel, The Clifton Chronicles"
-17,Louis L'Amour,230 million[,330 million[,English,Western,101,American,Western
-18,Erle Stanley Gardner,100 million[,325 million[,English,"Mystery, Perry Mason",140,American,"Mystery, Perry Mason"
-19,Edgar Wallace,blank,300 million[,English,"whodunits, detective, crime fiction, fiction",175,English,Detective
-20,Janet Dailey,300 million[,300 million[,English,Romance,93,American,Romance
-21,Robert Ludlum,110 million[,290 million[,English,"detective, crime fiction, espionage",40,American,"Espionage, Jason Bourne"
-22,James Patterson,150 million[,275 million[,English,"Thriller, Alex Cross",98,American,"Thriller, Alex Cross"
-23,Stan and Jan Berenstain,200 million[,260 million[,English,Berenstain Bears,300+,American,Berenstain Bears
-24,Roald Dahl,200 million[,250 million[,English,Children's literature,50,British,Children's literature
-25,John Grisham,100 million[,250 million[,English,Legal thriller,22,American,Legal thriller
-26,Zane Grey,blank,250 million[,English,Western,blank,American,Western
-27,Irving Wallace,blank,250 million[,English,Suspense,blank,American,Suspense
-28,J. R. R. Tolkien,200 million[,250 million[,English,"adventure, fiction, fantasy",36,English,"The Lord of the Rings, The Hobbit, classical fantasy"
-29,Carter Brown,100 million[,120 million[,English,"whodunits, detective, crime fiction, fiction",blank,Australian,Detective
-30,Mickey Spillane,100 million[,200 million[,English,"whodunits, detective, crime fiction, fiction",blank,American,"Detective, Mike Hammer"
-31,C. S. Lewis,100 million[,200 million[,English,"children's literature, fiction, theology, fantasy",38,British,"The Chronicles of Narnia, fantasy, popular theology"
-32,Dan Brown,200 mill,200 million[,English,"thriller, adventure, fiction",7[96],American,"Thriller, Robert Langdon"
-33,Ann M. Martin,172 million[,180 million[,English,fiction,335,American,The Baby-sitters Club
-34,Arthur Hailey,150 million[1,170 million[1,English,Thriller,11,British/Canadian,Thriller
-35,Beatrix Potter,100 million[1,150 million[1,English,"children's literature, fiction, illustrated children's books",23,English,Peter Rabbit
-36,Michael Crichton,150 million[1,150 million[1,English,Techno thriller,25,American,Techno thriller
-37,Richard Scarry,100 million[1,150 million[1,English,"children's literature, fiction, illustrated children's books",250,American,Illustrated children's books
-38,Clive Cussler,40 million[1,150 million[1,English,"Adventure, Dirk Pitt",37,American,"Adventure, Dirk Pitt"
-39,Alistair MacLean,150 million[1,200 million[1,English,"Adventure, thriller, war stories",32,British,"Adventure, thriller, war stories"
-40,Ken Follett,90 million[1,150 million[1,English,"Spy thriller, historical thriller",30,British,"Spy thriller, historical thriller"
-41,Debbie Macomber,60 million[1,140 million[1,English,Romance,blank,American,Romance
-42,EL James,100 mill,125 mill,English,"romance, fiction",3,British,Fifty Shades of Grey
-43,Catherine Cookson,100 million[1,120 million[1,English,Romance,103,British,Romance
-44,Stephenie Meyer,100 million[1,116 million[1,English,"romance, fiction, vampires",6,American,"The Twilight Saga, The Host, romance"
-45,Norman Bridwell,100 million[1,110 million[1,English,"children's literature, fiction, illustrated children's books",80,American,Clifford the Big Red Dog
-46,David Baldacci,blank,110 million[1,English,Thriller,25,American,Thriller
-47,Nicholas Sparks,90 million[1,105 million[1,English,Romance,22,American,Romance
-48,Evan Hunter,100 million[1,100 million[1,English,"whodunits, detective, crime fiction, fiction",94,American,Detective (Ed McBain)
-49,Andrew Neiderman,100 million[1,100 million[1,English,"V. C. Andrews, The Devil's Advocate",60,American,"V. C. Andrews, The Devil's Advocate"
-50,Roger Hargreaves,100 million[1,100 million[1,English,"children's literature, fiction, illustrated children's books",blank,British,"Children's literature, Mr. Men"
-51,Anne Rice,75 million[1,100 million[1,English,"romance, fiction, gothic fiction, vampires",27,American,"Gothic fiction, vampires, Interview with the Vampire (The Vampire Chronicles)"
-52,Robin Cook,100 million[1,100 million[1,English,"thriller, adventure, fiction",27,American,Medical thriller Coma
-53,Wilbur Smith,80 million[1,100 million[1,English,African adventure,32,South African/British,African adventure
-54,Erskine Caldwell,80 million[1,100 million[1,English,Literature,25,American,Literature
-55,Judith Krantz,80 million [1,100 million [1,English,Romance,12,American,Romance
-56,Eleanor Hibbert,100 million[1,100 million[1,English,"Romance, historical, suspense",200,British,"Romance, historical, suspense"
-57,Lewis Carroll,blank,100 million[1,English,"absurdist literature, children's literature, fiction",5,British,"Alice's Adventures in Wonderland, absurdist literature"
-58,Denise Robins,blank,100 million[1,English,Romance,200,British,Romance
-59,Ian Fleming,100 million[1,100 million[1,English,"detective, crime fiction, espionage",14,British,James Bond
-60,Rex Stout,100 million[1,100 million[1,English,"whodunits, detective, crime fiction, fiction",50,American,Nero Wolfe
-61,Frank G. Slaughter,blank,100 million[1,English,Medical,62,American,Medical
-62,Edgar Rice Burroughs,100 million[1,100 million[1,English,"children's literature, fiction, science fiction, fantasy",blank,American,"Tarzan, Barsoom and Pellucidar series, science fantasy"
-63,John Creasey,blank,100 million[1,English,Crime thriller,600,British,Crime thriller
-64,James A. Michener,blank,100 million[1,English,Historical,47,American,Historical
-65,Mary Higgins Clark,100 million[1,100 million[1,English,Thriller,blank,American,Thriller
-66,Penny Jordan,90 million[1,100 million[1,English,Romance,200+,British,Romance
-67,Patricia Cornwell,blank,100 million[1,English,Thriller,34+,American,Thriller
+,author,min_estimated_sales,max_estimated_sales,original_language,genre_or_major_works,number_of_books,nationality,genere_original,sales
+0,William Shakespeare,2 billion[1],4 billion[2],English,plays and poetry,42,English,Plays and poetry,4 billion[2]
+1,Agatha Christie,2 billion[3],4 billion[2],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",85,English,Whodunits including the Miss Marple and Hercule Poirot series,4 billion[2]
+2,Barbara Cartland,500 million[4],1 billion[5],English,romance,723,English,Romance,1 billion[5]
+3,Danielle Steel,500 million[6],800 million[7],English,romance,179,American,Romance,800 million[7]
+4,Harold Robbins,750 million[8],750 million[9],English,adventure,23,American,Adventure,750 million[9]
+5,Enid Blyton,blank,600 million[12],English,"children's literature, noddy, the famous five, the secret seven",800,English,"Children's literature, Noddy, The Famous Five, The Secret Seven",600 million[12]
+6,Sidney Sheldon,370 million[13],600 million[14],English,suspense,21,American,Suspense,600 million[14]
+7,J. K. Rowling,500 million[15],500 million[15],English,"fantasy, fiction",15,British,"Harry Potter, Fantastic Beasts and Where to Find Them, Cormoran Strike, fantasy, crime fiction",500 million[15]
+8,Gilbert Patten,125 million[16],500 million[17],English,adolescent adventures,209,American,Adolescent adventures,500 million[17]
+9,Dr. Seuss,100 million[18],500 million[19],English,children's literature,44,American,Children's literature,500 million[19]
+10,Jackie Collins,250 million[25],400 million[26],English,romance,25,English,Romance,400 million[26]
+11,Horatio Alger,200 million[27],400 million[28],English,"romance, adventure, fiction",135,American,Dime novels,400 million[28]
+12,R. L. Stine,100 million[29],400 million[30],English,"goosebumps series, fear street series, horror, comedy",430+,American,"Goosebumps series, Fear Street series, horror, comedy",400 million[30]
+13,Dean Koontz,325 million[31],400 million[32],English,"horror, thriller, science fiction, fantasy",91,American,"Horror, thriller, science fiction, fantasy",400 million[32]
+14,Nora Roberts,145 million[33],400 million[34],English,romance,200+,American,Romance,400 million[34]
+15,Stephen King,300 million[35],350 million[36],English,"horror, science fiction, fantasy, it, the shining, the stand, pet sematary, salem's lot, the green mile",77,American,"Horror, science fiction, fantasy, It, The Shining, The Stand, Pet Sematary, Salem's Lot, The Green Mile",350 million[36]
+16,Jeffrey Archer,250 million[39],330 million[40],English,"saga, thriller, short stories, kane and abel, the clifton chronicles",33,English,"Saga, thriller, short stories, Kane and Abel, The Clifton Chronicles",330 million[40]
+17,Louis L'Amour,230 million[41],330 million[42],English,western,101,American,Western,330 million[42]
+18,Erle Stanley Gardner,100 million[46],325 million[47],English,"mystery, perry mason",140,American,"Mystery, Perry Mason",325 million[47]
+19,Edgar Wallace,blank,300 million[48],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",175,English,Detective,300 million[48]
+20,Janet Dailey,300 million[52],300 million[53],English,romance,93,American,Romance,300 million[53]
+21,Robert Ludlum,110 million[54],290 million[55],English,"detective, crime fiction, espionage, mystery, suspense",40,American,"Espionage, Jason Bourne",290 million[55]
+22,James Patterson,150 million[69],275 million[70],English,"thriller, alex cross",98,American,"Thriller, Alex Cross",275 million[70]
+23,Stan and Jan Berenstain,200 million[73],260 million[74],English,berenstain bears,300+,American,Berenstain Bears,260 million[74]
+24,Roald Dahl,200 million[75],250 million[76],English,children's literature,50,British,Children's literature,250 million[76]
+25,John Grisham,100 million[77],250 million[78],English,legal thriller,22,American,Legal thriller,250 million[78]
+26,Zane Grey,blank,250 million[79],English,western,blank,American,Western,250 million[79]
+27,Irving Wallace,blank,250 million[80],English,suspense,blank,American,Suspense,250 million[80]
+28,J. R. R. Tolkien,200 million[81],250 million[82],English,"adventure, fiction, fantasy",36,English,"The Lord of the Rings, The Hobbit, classical fantasy",250 million[82]
+29,Carter Brown,100 million[86],120 million[87],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",blank,Australian,Detective,120 million[87]
+30,Mickey Spillane,100 million[88],200 million[89],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",blank,American,"Detective, Mike Hammer",200 million[89]
+31,C. S. Lewis,100 million[90],200 million[91],English,"children's literature, fiction, theology, fantasy",38,British,"The Chronicles of Narnia, fantasy, popular theology",200 million[91]
+32,Dan Brown,200 million,200 million[95],English,"thriller, adventure, fiction",7[96],American,"Thriller, Robert Langdon",200 million[95]
+33,Ann M. Martin,172 million[97],180 million[98],English,fiction,335,American,The Baby-sitters Club,180 million[98]
+34,Arthur Hailey,150 million[100],170 million[101],English,thriller,11,British/Canadian,Thriller,170 million[101]
+35,Beatrix Potter,100 million[103],150 million[104],English,"children's literature, fiction, illustrated children's books",23,English,Peter Rabbit,150 million[104]
+36,Michael Crichton,150 million[105],150 million[106],English,techno thriller,25,American,Techno thriller,150 million[106]
+37,Richard Scarry,100 million[107],150 million[108],English,"children's literature, fiction, illustrated children's books",250,American,Illustrated children's books,150 million[108]
+38,Clive Cussler,40 million[109],150 million[110],English,"adventure, dirk pitt",37,American,"Adventure, Dirk Pitt",150 million[110]
+39,Alistair MacLean,150 million[111],200 million[112],English,"adventure, thriller, war stories",32,British,"Adventure, thriller, war stories",200 million[112]
+40,Ken Follett,90 million[113],150 million[114],English,"spy thriller, historical thriller",30,British,"Spy thriller, historical thriller",150 million[114]
+41,Debbie Macomber,60 million[117],140 million[118],English,romance,blank,American,Romance,140 million[118]
+42,EL James,100 million,125 million,English,"romance, fiction",3,British,Fifty Shades of Grey,125 million
+43,Catherine Cookson,100 million[121],120 million[122],English,romance,103,British,Romance,120 million[122]
+44,Stephenie Meyer,100 million[123],116 million[124],English,"romance, fiction, vampires",6,American,"The Twilight Saga, The Host, romance",116 million[124]
+45,Norman Bridwell,100 million[125],110 million[126],English,"children's literature, fiction, illustrated children's books",80,American,Clifford the Big Red Dog,110 million[126]
+46,David Baldacci,blank,110 million[127],English,thriller,25,American,Thriller,110 million[127]
+47,Nicholas Sparks,90 million[128],105 million[129],English,romance,22,American,Romance,105 million[129]
+48,Evan Hunter,100 million[131],100 million[132],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",94,American,Detective (Ed McBain),100 million[132]
+49,Andrew Neiderman,100 million[133],100 million[134],English,"v. c. andrews, the devil's advocate",60,American,"V. C. Andrews, The Devil's Advocate",100 million[134]
+50,Roger Hargreaves,100 million[135],100 million[136],English,"children's literature, fiction, illustrated children's books",blank,British,"Children's literature, Mr. Men",100 million[136]
+51,Anne Rice,75 million[137],100 million[138],English,"romance, fiction, gothic fiction, vampires",27,American,"Gothic fiction, vampires, Interview with the Vampire (The Vampire Chronicles)",100 million[138]
+52,Robin Cook,100 million[139],100 million[140],English,"thriller, adventure, fiction, mystery",27,American,Medical thriller Coma,100 million[140]
+53,Wilbur Smith,80 million[141],100 million[142],English,african adventure,32,South African/British,African adventure,100 million[142]
+54,Erskine Caldwell,80 million[143],100 million[144],English,literature,25,American,Literature,100 million[144]
+55,Judith Krantz,80 million [145],100 million [146],English,romance,12,American,Romance,100 million [146]
+56,Eleanor Hibbert,100 million[147],100 million[148],English,"romance, historical, suspense",200,British,"Romance, historical, suspense",100 million[148]
+57,Lewis Carroll,blank,100 million[149],English,"absurdist literature, children's literature, fiction",5,British,"Alice's Adventures in Wonderland, absurdist literature",100 million[149]
+58,Denise Robins,blank,100 million[150],English,romance,200,British,Romance,100 million[150]
+59,Ian Fleming,100 million[152],100 million[153],English,"detective, crime fiction, espionage, mystery, suspense",14,British,James Bond,100 million[153]
+60,Rex Stout,100 million[156],100 million[157],English,"whodunits, detective, crime fiction, fiction, mystery, suspense",50,American,Nero Wolfe,100 million[157]
+61,Frank G. Slaughter,blank,100 million[160],English,medical,62,American,Medical,100 million[160]
+62,Edgar Rice Burroughs,100 million[161],100 million[162],English,"children's literature, fiction, science fiction, fantasy",blank,American,"Tarzan, Barsoom and Pellucidar series, science fantasy",100 million[162]
+63,John Creasey,blank,100 million[163],English,crime thriller,600,British,Crime thriller,100 million[163]
+64,James A. Michener,blank,100 million[164],English,historical,47,American,Historical,100 million[164]
+65,Mary Higgins Clark,100 million[166],100 million[167],English,thriller,blank,American,Thriller,100 million[167]
+66,Penny Jordan,90 million[168],100 million[169],English,romance,200+,British,Romance,100 million[169]
+67,Patricia Cornwell,blank,100 million[170],English,thriller,34+,American,Thriller,100 million[170]
